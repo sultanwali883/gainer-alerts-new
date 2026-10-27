@@ -1,0 +1,1 @@
+{"trades": [], "notified": {"LATE:TREE": 1793085013.8048306, "WATCH:NIL": 1793085013.8048306, "SMALL:REN": 1793085013.8048306}, "triggers": {"NIL": {"price": 0.09282764999999998, "sp": 2.1087473388136893, "t": 1793085013.8048306, "checked": 1793085013804, "flags": "RISK: HIGH (Binance SEED tag; thin, $5.4M traded/day)", "chg24": -1.417, "cap": 5}}, "last_status": "2026-10-27 07"}
